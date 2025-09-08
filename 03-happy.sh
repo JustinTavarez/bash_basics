@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "You are happy?"
+echo "You are happy? (feature-B conflict)"
 read answer
 
 if [ "$answer" = "yes" ]; then
